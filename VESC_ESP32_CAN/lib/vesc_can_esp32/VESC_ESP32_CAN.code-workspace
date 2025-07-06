@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "VESC_ESP32_CAN",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
